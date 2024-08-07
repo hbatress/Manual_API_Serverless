@@ -1,0 +1,10 @@
+<dependency>
+  <groupId>software.amazon.awssdk</groupId>
+  <artifactId>bom</artifactId>
+  <version>2.17.89</version>
+  <type>pom</type>
+  <scope>import</scope>
+</dependency>
+<dependency>
+  <groupId>software.amazon.awssdk</groupId>
+  <artifactId>ec2</artifactId
