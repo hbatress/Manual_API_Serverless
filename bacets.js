@@ -11,3 +11,4 @@ s3.listBuckets((err, data) => {
     if (err) console.log(err, err.stack); // un error ocurrió
     else console.log(data.Buckets); // éxito
 });
+ 
