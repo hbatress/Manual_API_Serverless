@@ -7,6 +7,7 @@
     }
 }
 
+
 {
     "usuarioId": "$input.params('id')",
     "accion": "$input.json('$.accion')"
