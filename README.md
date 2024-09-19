@@ -26,7 +26,7 @@ Tu opinión es importante para nosotros. Si encuentras este manual útil o tiene
 
 ---
 
-¡Gracias por visitar nuestro repositorio! Esperamos que encuentres este manual útil e inspirador. 😊
+¡Gracias por visitar nuestro repositorio! Esperamos que encuentres este manual útil e inspirador. 😊🤩
 
 ## Contribuciones
 
